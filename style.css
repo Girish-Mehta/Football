@@ -1,0 +1,46 @@
+/* body {
+  background: repeating-linear-gradient(
+  90deg,
+  #606dbc,
+  #606dbc 10px,
+  #465298 10px,
+  #465298 20px
+);
+} */
+
+.vbase{
+  background: repeating-linear-gradient(
+    90deg,
+    #01A611,
+    #01A611 90px,
+    #007B0C 90px,
+    #007B0C 180px
+  );
+  width: 100%;
+  height: 98vh;
+}
+
+.hbase{
+    background: repeating-linear-gradient(
+    0deg,
+    #01A611,
+    #01A611 90px,
+    #007B0C 90px,
+    #007B0C 180px
+  );
+  opacity: 0.4;
+
+  width: 100%;
+  height: 98vh;
+  /* padding:100px; */
+}
+
+/*
+header {
+  width: 105%;
+  border: 5px solid white;
+  background-color: white;
+  margin-top: -10px;
+  margin-left: -10px;
+  height: 90px;
+} */
