@@ -8,30 +8,39 @@
 );
 } */
 
+
+body{
+  /* background-color: #379897; */
+  background-image: url("pexels-photo-104675.jpeg");
+}
+
 .vbase{
   background: repeating-linear-gradient(
     90deg,
     #01A611,
-    #01A611 90px,
-    #007B0C 90px,
-    #007B0C 180px
+    #01A611 110px,
+    #007B0C 110px,
+    #007B0C 220px
   );
-  width: 100%;
-  height: 98vh;
+  width: 80%;
+  height: 70vh;
+  margin:auto;
+  margin-top: 100px;
+  box-shadow: 8px 5px grey;
 }
 
 .hbase{
     background: repeating-linear-gradient(
     0deg,
     #01A611,
-    #01A611 90px,
-    #007B0C 90px,
-    #007B0C 180px
+    #01A611 110px,
+    #007B0C 110px,
+    #007B0C 220px
   );
   opacity: 0.4;
 
   width: 100%;
-  height: 98vh;
+  height: 70vh;
   /* padding:100px; */
 }
 

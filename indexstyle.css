@@ -1,0 +1,38 @@
+body{
+  background-image: url("pexels-photo-104675.jpeg");
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+header{
+  /* background-color:	#FFFF00; */
+  background-color: #ffbf00;
+  margin-top: -25px;
+  margin-left: -10px;
+  padding-top: 30px;
+  width: 206vh;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+}
+
+
+footer{
+  position: absolute;
+  bottom: 0px;
+  padding-top: 30px;
+  width: 206vh;
+  margin-left: -10px;
+  background-color:	 	#181818;
+  text-align: center;
+  color: white;
+}
+
+div{
+  background-color: #a21919;
+  height:70vh;
+  width: 180vh;
+  padding: 20px;
+  margin: auto;
+  margin-top: 110px;
+}
