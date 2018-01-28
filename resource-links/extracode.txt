@@ -1,0 +1,12 @@
+      <div id='logo'>
+        <img src='img/logo.png' alt='FWG' />
+        <blockquote>Get all your favorite match details right here</blockquote>
+      </div>
+      <div>
+        <ol>
+          <li>Hull City VS Gillingham</li>
+          <li>Bury VS Walsall</li>
+          <li>Rochdale VS Brentford</li>
+          <li>Barnet VS Lincoln City</li>
+        </ol>
+      </div>
