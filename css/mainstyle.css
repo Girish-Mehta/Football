@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif|Pacifico');
+
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+
+div {
+  text-align: center;
+}
+
+
+font{
+  float: left;
+  padding-top: 20px;
+  padding-left: 6%;
+  font-family: 'Bree Serif', serif;
+  font-size: 25px;
+}
+
+
+footer {
+  background-color: black;
+  bottom: 0px;
+  color: white;
+  left: 0;
+  position: absolute;
+  width: 180vh;
+}
+
+
+h2 {
+  float: left;
+  padding-left: 20%;
+  padding-right: 28%;
+font-family: 'Pacifico', cursive;
+}
+
+
+#header {
+  background-color: black;
+  color: white;
+  float: left;
+  left: 0;
+  margin-top: -1%;
+  position: absolute;
+  text-align: center;
+  width: 180vh;
+}
+
+nav {
+  margin-top: -3px;
+}
+
+
+p {
+  font-family: monospace;
+  text-align: center;
+}
+
+
+ul {
+  display: inline;
+  list-style-type: none;
+}
+
+
+ul li {
+  display: block;
+  float: left;
+  margin: 18px 0px 0px 30px;
+  padding: 12px 12px 12px 10px;
+}
+
+
+#login {
+  background-color: green;
+  color: white;
+}
+
+#login:hover{
+  background-color: white;
+  color: black;
+}
+
+
+.social {
+  color: black;
+  padding-top: 6%;
+  margin: 18px 0px 0px 48px;
+}
+
+
+img {
+  height: 400px;
+  margin-left: -500px;
+}
+
+
+#subtext {
+  position: absolute;
+  font-family: monospace;
+  padding-left: 15px;
+}
