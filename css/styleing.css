@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif|Pacifico');
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+
+font {
+  float: left;
+  font-family: 'Bree Serif', serif;
+}
+
+h2 {
+  float: left;
+}
+
+
+header {
+  background-color: black;
+  color:white;
+}
+
+
+ul li {
+  display: block;
+  float: left;
+  /* margin: 18px 0px 0px 30px;
+  padding: 12px 12px 12px 10px; */
+}
+
+
+.list {
+  display: inline;
+  list-style-type: none;
+}
+
+
+#login {
+  background-color: green;
+  color: white;
+}
+
+#login:hover{
+  background-color: white;
+  color: black;
+}
