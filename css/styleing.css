@@ -9,10 +9,16 @@ a {
 font {
   float: left;
   font-family: 'Bree Serif', serif;
+  padding-right: 27%;
+  padding-left: 30px;
+  padding-top:15px;
 }
 
 h2 {
   float: left;
+  margin-top: -2px;
+  padding-right: 30%;
+  padding-top:15px;
 }
 
 
@@ -22,15 +28,37 @@ header {
 }
 
 
-ul li {
-  display: block;
-  float: left;
-  /* margin: 18px 0px 0px 30px;
-  padding: 12px 12px 12px 10px; */
+nav {
+  padding-top: 8px;
 }
 
 
-.list {
+ul li {
+  display: block;
+  float: left;
+  margin-left:30px;
+  padding: 8px 8px 8px 8px;
+}
+
+
+#body {
+  margin-top:-10px;
+}
+
+
+#header {
+  background-color: black;
+  height: 50px;
+}
+
+
+#footer {
+  background-color: black;
+  /* margin-top: 20px; */
+}
+
+
+#list {
   display: inline;
   list-style-type: none;
 }
@@ -41,7 +69,19 @@ ul li {
   color: white;
 }
 
+
 #login:hover{
   background-color: white;
+  color: black;
+}
+
+
+#social{
+  margin-top: 0px;
+  padding-left: 35%;
+}
+
+
+.social {
   color: black;
 }
