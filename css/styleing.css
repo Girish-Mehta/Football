@@ -6,6 +6,11 @@ a {
 }
 
 
+body {
+  margin: 0px;
+}
+
+
 font {
   float: left;
   font-family: 'Bree Serif', serif;
@@ -17,7 +22,7 @@ font {
 h2 {
   float: left;
   margin-top: -2px;
-  padding-right: 30%;
+  padding-right: 15%;
   padding-top:15px;
 }
 
@@ -25,6 +30,11 @@ h2 {
 header {
   background-color: black;
   color:white;
+}
+
+
+img {
+  width: 100%;
 }
 
 
@@ -41,11 +51,6 @@ ul li {
 }
 
 
-#body {
-  margin-top:-10px;
-}
-
-
 #header {
   background-color: black;
   height: 50px;
@@ -54,6 +59,9 @@ ul li {
 
 #footer {
   background-color: black;
+  color: white;
+  font-family: monospace;
+  text-align: center;
   /* margin-top: 20px; */
 }
 
@@ -84,4 +92,9 @@ ul li {
 
 .social {
   color: black;
+}
+
+
+.content {
+  text-align: justify;
 }
