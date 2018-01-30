@@ -38,10 +38,16 @@ blockquote p {
 }
 
 
+button{
+  background-color: black;
+  color: white;
+}
+
+
 font {
   float: left;
   font-family: 'Bree Serif', serif;
-  padding-right: 27%;
+  padding-right: 22%;
   padding-left: 30px;
   padding-top:15px;
 }
@@ -50,8 +56,8 @@ font {
 h2 {
   float: left;
   margin-top: -2px;
-  padding-right: 15%;
-  padding-top:15px;
+  padding-right: 20%;
+  padding-top:10px;
 }
 
 
@@ -62,7 +68,7 @@ header {
 
 
 nav {
-  padding-top: 8px;
+  padding-top: 6px;
 }
 
 
@@ -158,14 +164,27 @@ ul li {
 
 #social{
   margin-top: 0px;
-  padding-left: 35%;
+  padding-left: 20%;
+}
+
+
+.matchcard{
+  height: 600px;
 }
 
 
 .icon {
   margin:0px;
+  width: 100%;
+  height: 100%;
 }
 
+
+.refer{
+  text-align: center;
+  padding-bottom: 70px;
+  padding-top: 40px;
+}
 
 .score {
   background-color: black;
@@ -176,4 +195,9 @@ ul li {
 
 .social {
   color: black;
+}
+
+
+.social_cont{
+  text-align: left;
 }
