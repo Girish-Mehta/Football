@@ -97,9 +97,8 @@ ul li {
 
 
 #content {
-  height:200px;
+  height:240px;
   overflow-y: auto;
-
 }
 
 
@@ -162,6 +161,11 @@ ul li {
 }
 
 
+#match_container {
+  padding-bottom: 20px;  
+}
+
+
 #social{
   margin-top: 0px;
   padding-left: 20%;
@@ -177,6 +181,12 @@ ul li {
   margin:0px;
   width: 100%;
   height: 100%;
+}
+
+
+.matches {
+  color: black;
+  text-decoration: underline;
 }
 
 
